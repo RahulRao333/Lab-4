@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <products id="be129">
+        <pid>1</pid>
+        <pname>Oil</pname>
+        <qinstock>400</qinstock>
+        <vendorname>Rahul</vendorname>
+        <price>300</price>
+        <prodesc>premium oil for bike</prodesc>
+
+        
+
+    </products>
+
+
+    <products id="be130">
+        <pid>2</pid>
+        <pname>Break Pad</pname>
+        <qinstock>40</qinstock>
+        <vendorname>Rasion</vendorname>
+        <price>3000</price>
+        <prodesc>premium breaks for bike</prodesc>
+
+        
+
+    </products>
+    <products id="be131">
+        <pid>3</pid>
+        <pname>Absbreak pad</pname>
+        <qinstock>4</qinstock>
+        <vendorname>Manoj</vendorname>
+        <price>5000</price>
+        <prodesc>premium abs breaks for bike</prodesc>
+
+        
+
+    </products>
+
+
+    <products id="be132">
+        <pid>4</pid>
+        <pname>Drum Breaks</pname>
+        <qinstock>2000</qinstock>
+        <vendorname>Srini</vendorname>
+        <price>30</price>
+        <prodesc>low qualiy breaks</prodesc>
+
+        
+
+    </products>
+
+
+    <products id="be133">
+        <pid>5</pid>
+        <pname>Premium Oil</pname>
+        <qinstock>20</qinstock>
+        <vendorname>Donaselmo</vendorname>
+        <price>300000</price>
+        <prodesc>highest grade oil</prodesc>
+
+        
+
+    </products>
+
+
+    <products id="be134">
+        <pid>6</pid>
+        <pname>Spanner</pname>
+        <qinstock>200</qinstock>
+        <vendorname>Ruchi</vendorname>
+        <price>20</price>
+        <prodesc>b grade spanner</prodesc>
+
+        
+
+    </products>
+
+
+    <products id="be135">
+        <pid>7</pid>
+        <pname>Screw</pname>
+        <qinstock>2</qinstock>
+        <vendorname>Ruchira</vendorname>
+        <price>5</price>
+        <prodesc>b grade screw</prodesc>
+
+        
+
+    </products>
+    <products id="be136">
+        <pid>8</pid>
+        <pname>Exhaust</pname>
+        <qinstock>20</qinstock>
+        <vendorname>Divine</vendorname>
+        <price>20000</price>
+        <prodesc>noisy exhaust</prodesc>
+
+        
+
+    </products>
+
+    <products id="be137">
+        <pid>9</pid>
+        <pname>Engine</pname>
+        <qinstock>20</qinstock>
+        <vendorname>Pablo</vendorname>
+        <price>300</price>
+        <prodesc>hight quality engine</prodesc>
+
+        
+
+    </products>
+
+
+
+</inventory>
